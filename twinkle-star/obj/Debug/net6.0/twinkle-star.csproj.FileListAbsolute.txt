@@ -1,0 +1,15 @@
+M:\WS\Programmieren\Mircocontroller\Arduino\twinkle-tray-auto-brightness\twinkle-star\bin\Debug\net6.0\twinkle-star.exe
+M:\WS\Programmieren\Mircocontroller\Arduino\twinkle-tray-auto-brightness\twinkle-star\bin\Debug\net6.0\twinkle-star.deps.json
+M:\WS\Programmieren\Mircocontroller\Arduino\twinkle-tray-auto-brightness\twinkle-star\bin\Debug\net6.0\twinkle-star.runtimeconfig.json
+M:\WS\Programmieren\Mircocontroller\Arduino\twinkle-tray-auto-brightness\twinkle-star\bin\Debug\net6.0\twinkle-star.dll
+M:\WS\Programmieren\Mircocontroller\Arduino\twinkle-tray-auto-brightness\twinkle-star\bin\Debug\net6.0\twinkle-star.pdb
+M:\WS\Programmieren\Mircocontroller\Arduino\twinkle-tray-auto-brightness\twinkle-star\obj\Debug\net6.0\twinkle-star.csproj.AssemblyReference.cache
+M:\WS\Programmieren\Mircocontroller\Arduino\twinkle-tray-auto-brightness\twinkle-star\obj\Debug\net6.0\twinkle-star.GeneratedMSBuildEditorConfig.editorconfig
+M:\WS\Programmieren\Mircocontroller\Arduino\twinkle-tray-auto-brightness\twinkle-star\obj\Debug\net6.0\twinkle-star.AssemblyInfoInputs.cache
+M:\WS\Programmieren\Mircocontroller\Arduino\twinkle-tray-auto-brightness\twinkle-star\obj\Debug\net6.0\twinkle-star.AssemblyInfo.cs
+M:\WS\Programmieren\Mircocontroller\Arduino\twinkle-tray-auto-brightness\twinkle-star\obj\Debug\net6.0\twinkle-star.csproj.CoreCompileInputs.cache
+M:\WS\Programmieren\Mircocontroller\Arduino\twinkle-tray-auto-brightness\twinkle-star\obj\Debug\net6.0\twinkle-star.dll
+M:\WS\Programmieren\Mircocontroller\Arduino\twinkle-tray-auto-brightness\twinkle-star\obj\Debug\net6.0\refint\twinkle-star.dll
+M:\WS\Programmieren\Mircocontroller\Arduino\twinkle-tray-auto-brightness\twinkle-star\obj\Debug\net6.0\twinkle-star.pdb
+M:\WS\Programmieren\Mircocontroller\Arduino\twinkle-tray-auto-brightness\twinkle-star\obj\Debug\net6.0\twinkle-star.genruntimeconfig.cache
+M:\WS\Programmieren\Mircocontroller\Arduino\twinkle-tray-auto-brightness\twinkle-star\obj\Debug\net6.0\ref\twinkle-star.dll
